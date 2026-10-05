@@ -1,0 +1,13 @@
+add main.prg
+add abs.prg
+add buildmaze.prg
+add checkstep.prg
+add convertcoord.prg
+add drawmap.prg
+add init.prg
+add mazecheck.prg
+add movedragon.prg
+add offset.prg
+add playerturn.prg
+add rnd.prg
+
